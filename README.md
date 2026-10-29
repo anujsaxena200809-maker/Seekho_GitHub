@@ -1,5 +1,5 @@
 # Seekho_GitHub
 <br>
 Learn with Practice
-<hr>
+<br>
 Author: Anuj Anand Saxena
